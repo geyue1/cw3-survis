@@ -1,0 +1,1 @@
+define({ availableImg: ["worrall_2019_deep","sosnovik_2020_scaleequivariant","xu_2014_scaleinvariant","marcos_2018_scale","nam_2018_psicnn","cohen_2016_group","jansson_2022_scaleinvariant","bekkers_2021_bspline","zhang_2017_s3fd","ming_2022_group"]});
